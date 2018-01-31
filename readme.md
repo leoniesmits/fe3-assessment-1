@@ -1,5 +1,7 @@
 # Assessment 1
 
+[pages](https://leoniesmits.github.io/fe3-assessment-1/)
+
 First assessment of school subject Front-end 3.
 
 ## Steps taken
